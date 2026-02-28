@@ -56,5 +56,5 @@ The system performs full CRUD (Create, Read, Update, Delete) operations.
 ### 🔹 Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/Sravs-19/Full-Stack-React-Sping-Boot-Student-Management-System.git
-cd Full-Stact-React-Spring-Boot-Student-Management-System
+git clone https://github.com/Sravs-19/Full-Stack-React-Spring-Boot-Student-Management-System.git
+cd Full-Stack-React-Spring-Boot-Student-Management-System

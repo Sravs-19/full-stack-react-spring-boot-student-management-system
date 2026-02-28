@@ -2,9 +2,6 @@
 A complete Student Management application built using **React.js** and **Spring Boot**, featuring CRUD operations and responsive user interface.
 
 ## 🚀 Project Overview
-
----
-
 This is a Full-Stack web application that allows users to manage student records efficiently. The application demonstrates integration between:
 
 - 🎨 Frontend: React.js  

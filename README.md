@@ -57,4 +57,4 @@ The system performs full CRUD (Create, Read, Update, Delete) operations.
 
 ```bash
 git clone https://github.com/Sravs-19/Full-Stack-React-Spring-Boot-Student-Management-System.git
-cd Full-Stack-React-Spring-Boot-Student-Management-System
+Full-Stack-React-Spring-Boot-Student-Management-System
